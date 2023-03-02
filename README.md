@@ -1,6 +1,6 @@
 # A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data
 
-This is a Python implementation of 
+This is the official Python implementation of 
 
 >  A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data
 >
