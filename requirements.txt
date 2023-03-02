@@ -1,0 +1,9 @@
+networkx==2.5
+pytorch==1.13
+matplotlib
+numpy
+pandas
+POT
+argparse
+scikit-learn
+scipy

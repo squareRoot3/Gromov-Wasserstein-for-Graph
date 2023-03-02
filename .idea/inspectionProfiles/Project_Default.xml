@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="decorator" />
+            <item index="1" class="java.lang.String" itemvalue="networkx" />
+            <item index="2" class="java.lang.String" itemvalue="seaborn" />
+            <item index="3" class="java.lang.String" itemvalue="joblib" />
+            <item index="4" class="java.lang.String" itemvalue="POT" />
+            <item index="5" class="java.lang.String" itemvalue="python-louvain" />
+            <item index="6" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="7" class="java.lang.String" itemvalue="certifi" />
+            <item index="8" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="9" class="java.lang.String" itemvalue="infomap" />
+            <item index="10" class="java.lang.String" itemvalue="cycler" />
+            <item index="11" class="java.lang.String" itemvalue="dgllife" />
+            <item index="12" class="java.lang.String" itemvalue="dgl" />
+            <item index="13" class="java.lang.String" itemvalue="torch" />
+            <item index="14" class="java.lang.String" itemvalue="numpy" />
+            <item index="15" class="java.lang.String" itemvalue="biopandas" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
