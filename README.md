@@ -1,6 +1,6 @@
 # A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data
 
-BAPG has been implemented in the POT (Python Optimal Transport) package! Check it [here](https://pythonot.github.io/gen_modules/ot.gromov.html#ot.gromov.BAPG_gromov_wasserstein).
+BAPG is now available in the POT (Python Optimal Transport) package! Check it [here](https://pythonot.github.io/gen_modules/ot.gromov.html#ot.gromov.BAPG_gromov_wasserstein).
 
 This is the official Python implementation of 
 
